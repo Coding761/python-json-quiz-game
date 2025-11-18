@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What does CPU stand for?",
+        "answer": "central processing unit"
+    },
+    {
+        "question": "What keyword defines a function in Python?",
+        "answer": "def"
+    },
+    {
+        "question": "What is 5 + 7?",
+        "answer": "12"
+    }
+]
